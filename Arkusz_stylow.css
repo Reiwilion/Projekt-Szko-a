@@ -56,4 +56,9 @@ a {
 }
 p {
     margin-left:20px;
+
+}
+span {
+    font-family: 'Comic Sans MS';
+    font-size: 2vh;
 }
