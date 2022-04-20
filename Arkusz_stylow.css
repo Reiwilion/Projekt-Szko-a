@@ -23,6 +23,7 @@ body {
     font-family: 'Comic Sans MS';
 }
 
+
 .wyobory {
     position: absolute;
     width: 120vh;
@@ -52,4 +53,7 @@ a {
 
 #p1 {
     margin-left: 0;
+}
+p {
+    margin-left:20px;
 }
