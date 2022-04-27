@@ -16,7 +16,7 @@
         </p>
     </div>
     <div class="wyobory">
-        <a href="spanie.html"><button class="przyciski"><span>Zagraj ponownie</span></button></a>
+        <a href="index.html"><button class="przyciski"><span>Zagraj ponownie</span></button></a>
     </div>
 </body>
 </html>
