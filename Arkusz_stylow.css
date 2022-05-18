@@ -12,13 +12,6 @@ body {
     background-color: navajowhite;
 }
 
-.obrazek {
-    width: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .tekst {
     position: absolute;
     width: 120vh;
